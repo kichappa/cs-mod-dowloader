@@ -1,0 +1,1343 @@
+1673888007570	geckodriver	INFO	Listening on 127.0.0.1:59769
+1673888010650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileSK06J1"
+1673888012027	Marionette	INFO	Marionette enabled
+1673888012035	Marionette	INFO	Listening on port 59790
+Read port: 59790
+WebDriver BiDi listening on ws://127.0.0.1:59770
+1673888012502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileSK06J1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59770/devtools/browser/918e3eb7-5a8b-4d8d-95be-99ea0af5a142
+1673888029454	geckodriver	INFO	Listening on 127.0.0.1:59834
+1673888032516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileAUDfNn"
+1673888033283	Marionette	INFO	Marionette enabled
+1673888033292	Marionette	INFO	Listening on port 59848
+Read port: 59848
+WebDriver BiDi listening on ws://127.0.0.1:59835
+1673888034399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileAUDfNn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59835/devtools/browser/fa9679b2-8947-4035-9f91-ef9ac5ed78da
+1673889286175	geckodriver	INFO	Listening on 127.0.0.1:60911
+1673889289207	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60912" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileJaxFBk"
+1673889289898	Marionette	INFO	Marionette enabled
+1673889289905	Marionette	INFO	Listening on port 60924
+Read port: 60924
+WebDriver BiDi listening on ws://127.0.0.1:60912
+1673889290240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileJaxFBk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60912/devtools/browser/fae7d90e-703e-4f5a-abdc-dbd8917557a5
+1673889345049	geckodriver	INFO	Listening on 127.0.0.1:61036
+1673889348096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile7MNzYA"
+1673889348946	Marionette	INFO	Marionette enabled
+1673889348955	Marionette	INFO	Listening on port 61048
+Read port: 61048
+WebDriver BiDi listening on ws://127.0.0.1:61037
+1673889349377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile7MNzYA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61037/devtools/browser/52c9df12-c9bd-42b3-aa26-d7ebe333254f
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowA1673889623412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileB0IOXV"
+1673889624106	Marionette	INFO	Marionette enabled
+1673889624114	Marionette	INFO	Listening on port 61327
+Read port: 61327
+WebDriver BiDi listening on ws://127.0.0.1:61314
+1673889624473	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileB0IOXV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61314/devtools/browser/5dbc4d50-1c6b-46d1-8b14-329de9d552dc
+1673889934468	geckodriver	INFO	Listening on 127.0.0.1:61507
+1673889937530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61508" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileUARrSA"
+1673889938249	Marionette	INFO	Marionette enabled
+1673889938257	Marionette	INFO	Listening on port 61517
+Read port: 61517
+WebDriver BiDi listening on ws://127.0.0.1:61508
+1673889938578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileUARrSA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61508/devtools/browser/c944b79a-d5b3-4fd1-836e-2a1db8379d4f
+1673889972249	Marionette	INFO	Stopped listening on port 61517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673890131798	geckodriver	INFO	Listening on 127.0.0.1:61648
+1673890134855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileGleTfU"
+1673890135573	Marionette	INFO	Marionette enabled
+1673890135581	Marionette	INFO	Listening on port 61661
+Read port: 61661
+WebDriver BiDi listening on ws://127.0.0.1:61649
+1673890135869	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileGleTfU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61649/devtools/browser/165797c8-1e3f-4915-acf2-5ed600d88c98
+1673890151741	geckodriver	INFO	Listening on 127.0.0.1:61701
+1673890154802	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61702" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileXUbXzc"
+1673890155509	Marionette	INFO	Marionette enabled
+1673890155518	Marionette	INFO	Listening on port 61713
+Read port: 61713
+WebDriver BiDi listening on ws://127.0.0.1:61702
+1673890155788	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileXUbXzc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61702/devtools/browser/6a5fafaf-d20a-4469-90f4-851f241bdef0
+1673890214876	geckodriver	INFO	Listening on 127.0.0.1:61778
+1673890217933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileDwuYgO"
+1673890218644	Marionette	INFO	Marionette enabled
+1673890218652	Marionette	INFO	Listening on port 61788
+Read port: 61788
+WebDriver BiDi listening on ws://127.0.0.1:61779
+1673890218922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileDwuYgO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61779/devtools/browser/79ab05b9-40a1-4287-889d-46d3edfe8338
+1673891568957	geckodriver	INFO	Listening on 127.0.0.1:62763
+1673891572011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62764" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqregZa"
+1673891572731	Marionette	INFO	Marionette enabled
+1673891572740	Marionette	INFO	Listening on port 62776
+Read port: 62776
+WebDriver BiDi listening on ws://127.0.0.1:62764
+1673891573036	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqregZa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62764/devtools/browser/93ff0750-b7d7-42c1-af1a-c0c1277b5bc6
+1673891608941	geckodriver	INFO	Listening on 127.0.0.1:62848
+1673891612004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62849" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileiWb7Lt"
+1673891612728	Marionette	INFO	Marionette enabled
+1673891612735	Marionette	INFO	Listening on port 62868
+Read port: 62868
+WebDriver BiDi listening on ws://127.0.0.1:62849
+1673891613046	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileiWb7Lt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62849/devtools/browser/f1cbf8f7-52da-4ac5-8a9c-a63a163ed4d3
+1673891797266	geckodriver	INFO	Listening on 127.0.0.1:63061
+1673891800324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63062" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileNR5XpT"
+1673891801033	Marionette	INFO	Marionette enabled
+1673891801041	Marionette	INFO	Listening on port 63073
+Read port: 63073
+WebDriver BiDi listening on ws://127.0.0.1:63062
+1673891801352	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileNR5XpT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63062/devtools/browser/b025aaff-5f15-4d40-bae9-133f4271a756
+1673891959706	geckodriver	INFO	Listening on 127.0.0.1:63228
+1673891962762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63229" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileVr6Ug5"
+1673891963466	Marionette	INFO	Marionette enabled
+1673891963473	Marionette	INFO	Listening on port 63242
+Read port: 63242
+WebDriver BiDi listening on ws://127.0.0.1:63229
+1673891963756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileVr6Ug5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63229/devtools/browser/de93fc8c-2082-42ae-a352-d6af783b679e
+1673893962390	geckodriver	INFO	Listening on 127.0.0.1:64588
+1673893965448	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64589" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileQ3oDhA"
+1673893966173	Marionette	INFO	Marionette enabled
+1673893966188	Marionette	INFO	Listening on port 64600
+Read port: 64600
+WebDriver BiDi listening on ws://127.0.0.1:64589
+1673893966477	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileQ3oDhA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64589/devtools/browser/c2601414-0653-4dcf-a967-527f14daa342
+1673893975718	geckodriver	INFO	Listening on 127.0.0.1:64652
+1673893978769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileVmlA9U"
+1673893979465	Marionette	INFO	Marionette enabled
+1673893979474	Marionette	INFO	Listening on port 64664
+Read port: 64664
+WebDriver BiDi listening on ws://127.0.0.1:64653
+1673893979756	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileVmlA9U\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64653/devtools/browser/f117ca74-f4b4-4324-9ef7-bf1867ad72f3
+1673893982849	geckodriver	INFO	Listening on 127.0.0.1:64675
+1673893985906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile0bwuz5"
+1673893986623	Marionette	INFO	Marionette enabled
+1673893986631	Marionette	INFO	Listening on port 64704
+Read port: 64704
+WebDriver BiDi listening on ws://127.0.0.1:64676
+1673893986896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile0bwuz5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64676/devtools/browser/caf00188-8d1d-4351-ae04-5c2feacdfbaf
+1673894013443	geckodriver	INFO	Listening on 127.0.0.1:64730
+1673894016497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64731" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileM8kqBL"
+1673894017349	Marionette	INFO	Marionette enabled
+1673894017358	Marionette	INFO	Listening on port 64758
+Read port: 64758
+WebDriver BiDi listening on ws://127.0.0.1:64731
+1673894017656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileM8kqBL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64731/devtools/browser/4300bfd2-26ef-484a-897c-660482352b0a
+1673894020622	geckodriver	INFO	Listening on 127.0.0.1:64771
+1673894023680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilegEUli0"
+1673894024444	Marionette	INFO	Marionette enabled
+1673894024451	Marionette	INFO	Listening on port 64797
+Read port: 64797
+WebDriver BiDi listening on ws://127.0.0.1:64772
+1673894024724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilegEUli0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64772/devtools/browser/91af06ea-34cd-4abd-a6c5-7e554b7ea108
+1673894027760	geckodriver	INFO	Listening on 127.0.0.1:64808
+1673894030801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqN60Nq"
+1673894031515	Marionette	INFO	Marionette enabled
+1673894031522	Marionette	INFO	Listening on port 64837
+Read port: 64837
+WebDriver BiDi listening on ws://127.0.0.1:64809
+1673894031863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqN60Nq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64809/devtools/browser/7efbd6a8-af38-4f9b-8aff-6c851ce7f726
+1673894038235	geckodriver	INFO	Listening on 127.0.0.1:64853
+1673894041291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64854" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileaGte1K"
+1673894042177	Marionette	INFO	Marionette enabled
+1673894042184	Marionette	INFO	Listening on port 64884
+Read port: 64884
+WebDriver BiDi listening on ws://127.0.0.1:64854
+1673894042537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1673894066527	geckodriver	INFO	Listening on 127.0.0.1:64919
+1673894069581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileSxIvQ8"
+1673894070422	Marionette	INFO	Marionette enabled
+1673894070431	Marionette	INFO	Listening on port 64930
+Read port: 64930
+WebDriver BiDi listening on ws://127.0.0.1:64920
+1673894070757	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileSxIvQ8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64920/devtools/browser/2872acfc-204b-43b3-a75a-fe152ba6b94f
+1673895087630	Marionette	INFO	Stopped listening on port 64930
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 9260, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+rionette enabled
+1673894086017	Marionette	INFO	Listening on port 64998
+Read port: 64998
+WebDriver BiDi listening on ws://127.0.0.1:64987
+1673894086332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilejcFiLo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64987/devtools/browser/ebba093e-d5bc-4d87-85d9-877642d9db47
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+1673895067830	Marionette	INFO	Stopped listening on port 64998
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+ript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+1673895063691	Marionette	INFO	Stopped listening on port 65039
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile7KivwN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65051/devtools/browser/89507b44-ed14-4098-b598-ad751b764370
+JavaScript error: , line 0: uncaught exception: timeout
+1673895064114	Marionette	INFO	Stopped listening on port 65080
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+calhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilelPOCBQ"
+1673894126300	Marionette	INFO	Marionette enabled
+1673894126307	Marionette	INFO	Listening on port 65154
+Read port: 65154
+WebDriver BiDi listening on ws://127.0.0.1:65127
+1673894126620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilelPOCBQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65127/devtools/browser/d7d18e8b-6ff7-4021-b477-1dc76fe419b9
+JavaScript error: , line 0: uncaught exception: timeout
+1673895064425	Marionette	INFO	Stopped listening on port 65154
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+calhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileecSSv3"
+1673894310284	Marionette	INFO	Marionette enabled
+1673894310292	Marionette	INFO	Listening on port 65310
+Read port: 65310
+WebDriver BiDi listening on ws://127.0.0.1:65280
+1673894310611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileecSSv3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65280/devtools/browser/7f4ceefa-8aa7-498f-b41e-e0ea5391bc1d
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895064609	Marionette	INFO	Stopped listening on port 65310
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilevn794Y\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65324/devtools/browser/5ed24e88-6008-4c0c-bdde-9a10e937008b
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895064803	Marionette	INFO	Stopped listening on port 65350
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileGq6Zzv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65361/devtools/browser/5ff15947-ec95-474b-82d0-d404e388a9ab
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895064937	Marionette	INFO	Stopped listening on port 65388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileo0qv85\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65399/devtools/browser/0ffde5a9-4b3b-4120-be56-3533bca0db29
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895065125	Marionette	INFO	Stopped listening on port 65438
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileLOnaLN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65454/devtools/browser/ec9c1cd1-29de-4976-a198-cec910bcff7c
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+1673895065300	Marionette	INFO	Stopped listening on port 65478
+[Parent 19652, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+o settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileVBKrYK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65492/devtools/browser/6dce880a-9c70-4cb6-84bf-09ee6e8fa72f
+JavaScript error: , line 0: uncaught exception: timeout
+1673895065434	Marionette	INFO	Stopped listening on port 65517
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+calhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileKYNN2W"
+1673894353308	Marionette	INFO	Marionette enabled
+1673894353318	Marionette	INFO	Listening on port 49175
+Read port: 49175
+WebDriver BiDi listening on ws://127.0.0.1:65532
+1673894353626	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileKYNN2W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65532/devtools/browser/206763d0-0274-4235-a062-3239cd63e174
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895065602	Marionette	INFO	Stopped listening on port 49175
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilevZbO8H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49187/devtools/browser/8ce0923b-edd7-4338-becf-b2138710e473
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895065930	Marionette	INFO	Stopped listening on port 49215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilej3ma71\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49227/devtools/browser/46e3eb12-5340-4fd6-bb9d-4d56c245044a
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895066050	Marionette	INFO	Stopped listening on port 49253
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileV3flqw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49265/devtools/browser/1b3713df-2abb-4b5b-b8a2-f72e40bb0de2
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895066168	Marionette	INFO	Stopped listening on port 49292
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileDWzVeQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49305/devtools/browser/c632e9e2-86f8-4031-8c4a-4556c10068b5
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895066352	Marionette	INFO	Stopped listening on port 49334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileao4Jie\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49346/devtools/browser/6d64fc2a-fc06-4dd7-bbdf-e3e6183eb1f5
+JavaScript error: , line 0: uncaught exception: timeout
+1673895066516	Marionette	INFO	Stopped listening on port 49373
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+calhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilej7Vbkb"
+1673894396018	Marionette	INFO	Marionette enabled
+1673894396025	Marionette	INFO	Listening on port 49414
+Read port: 49414
+WebDriver BiDi listening on ws://127.0.0.1:49384
+1673894396317	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilej7Vbkb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49384/devtools/browser/c22a0c9d-f3f0-46ce-9ec6-107f95acf667
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript error: , line 0: uncaught exception: timeout
+1673895066664	Marionette	INFO	Stopped listening on port 49414
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileJqpYtB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49429/devtools/browser/e17dc9a0-208b-4a60-bd37-af4380cd5a38
+JavaScript warning: https://tag.escalated.io/?i=KxxajmhPPCsT&d=smods.ru&type=display&cust=6968&sid=direct&c=&cust2=direct, line 10: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: timeout
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+1673895066799	Marionette	INFO	Stopped listening on port 49458
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+kicha\\AppData\\Local\\Temp\\rust_mozprofileJc2UCc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49470/devtools/browser/d0529e82-0465-49ae-805f-f55394ac2646
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+JavaScript warning: https://ecdn.firstimpression.io/static/html/obd_banner.html, line 110: unreachable code after return statement
+1673895067003	Marionette	INFO	Stopped listening on port 49497
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+port: 52306
+WebDriver BiDi listening on ws://127.0.0.1:52295
+1673894770085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileZHWnvR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52295/devtools/browser/246d1748-dce9-4b9e-9b95-7360ca566628
+1673894776646	geckodriver	INFO	Listening on 127.0.0.1:52362
+1673894779719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52363" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilerZm6ZY"
+1673894780624	Marionette	INFO	Marionette enabled
+1673894780636	Marionette	INFO	Listening on port 52378
+Read port: 52378
+1673894790514	geckodriver	INFO	Listening on 127.0.0.1:52409
+1673894793572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileeNUAWg"
+1673894794387	Marionette	INFO	Marionette enabled
+1673894794397	Marionette	INFO	Listening on port 52427
+Read port: 52427
+WebDriver BiDi listening on ws://127.0.0.1:52410
+1673894801409	geckodriver	INFO	Listening on 127.0.0.1:52446
+1673894804462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile0TiYyU"
+1673894805310	Marionette	INFO	Marionette enabled
+1673894805320	Marionette	INFO	Listening on port 52461
+Read port: 52461
+WebDriver BiDi listening on ws://127.0.0.1:52447
+1673894805985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile0TiYyU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52447/devtools/browser/df5d300b-5557-4ca0-afbc-eaa42b4c6cce
+1673895067190	Marionette	INFO	Stopped listening on port 52461
+[Parent 48264, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673948908537	geckodriver	INFO	Listening on 127.0.0.1:64264
+1673948911598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64265" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileNHmHoT"
+1673948912495	geckodriver	INFO	Listening on 127.0.0.1:64272
+1673948915549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64273" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile34VEUR"
+1673948916380	Marionette	INFO	Marionette enabled
+1673948916390	Marionette	INFO	Listening on port 64285
+Read port: 64285
+WebDriver BiDi listening on ws://127.0.0.1:64273
+1673948916706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile34VEUR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64273/devtools/browser/a5204d52-265c-41f9-b665-6309273225e0
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.117.js, line 2: TypeError: right-hand side of 'in' should be an object, got undefined
+1673948927849	geckodriver	INFO	Listening on 127.0.0.1:64459
+1673948931227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilezJKQ9c"
+1673948931724	Marionette	INFO	Marionette enabled
+1673948931731	Marionette	INFO	Listening on port 64476
+Read port: 64476
+WebDriver BiDi listening on ws://127.0.0.1:64460
+1673948932040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilezJKQ9c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64460/devtools/browser/5e09462c-0914-4b26-b013-d6817eedd174
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and wilJavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673948962246	Marionette	WARN	Ignoring event 'pageshow' beca1673948964206	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilelYlCnj"
+1673948965090	Marionette	INFO	Marionette enabled
+1673948965101	Marionette	INFO	Listening on port 64881
+Read port: 64881
+WebDriver BiDi listening on ws://127.0.0.1:64797
+1673948965466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilelYlCnj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64797/devtools/browser/2bffa6b7-9633-46da-b4b9-b54bc394945e
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.117.js, line 2: TypeError: right-hand side of 'in' should be an object, got undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 5377 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1143 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 2986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 5724 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg1673949011176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilepjkxkw"
+1673949012454	Marionette	INFO	Marionette enabled
+1673949012469	Marionette	INFO	Listening on port 65096
+Read port: 65096
+WebDriver BiDi listening on ws://127.0.0.1:65082
+1673949013004	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilepjkxkw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65082/devtools/browser/7f99695a-0e8d-493b-b6c0-5869bd6a90d5
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 5458 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://s0.2mdn.net/sadbundle/14255879703718677159/CV~CHECO_SIMETRICO_FM~BAN_SZ~970X250_FF~22122022/index.html, line 142: TypeError: a.g is null
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 3446 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg1673949041259	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilemhmLNK"
+1673949041795	Marionette	INFO	Marionette enabled
+1673949041803	Marionette	INFO	Listening on port 65299
+Read port: 65299
+WebDriver BiDi listening on ws://127.0.0.1:65268
+1673949042022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilemhmLNK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65268/devtools/browser/6b14ba09-2d6a-4ab9-9c45-ec0b3130e9de
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1504 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 5486 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg1673949052881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileq9ZawT"
+1673949053221	Marionette	INFO	Marionette enabled
+1673949053225	Marionette	INFO	Listening on port 65481
+Read port: 65481
+WebDriver BiDi listening on ws://127.0.0.1:65457
+1673949053368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileq9ZawT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65457/devtools/browser/963d4ac8-b700-489c-97f0-b0c8299427cd
+1673949056116	Marionette	INFO	Stopped listening on port 65481
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673949083780	geckodriver	INFO	Listening on 127.0.0.1:49161
+1673949156877	geckodriver	INFO	Listening on 127.0.0.1:49226
+1673949159931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileXxP5l2"
+1673949160678	Marionette	INFO	Marionette enabled
+1673949160686	Marionette	INFO	Listening on port 49239
+Read port: 49239
+WebDriver BiDi listening on ws://127.0.0.1:49227
+1673949161021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileXxP5l2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49227/devtools/browser/7c18a774-5332-4b8f-85e5-016042b68ce5
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1006 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 7064 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1340 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 7307 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 4512 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673949173603	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1673949348789	Marionette	INFO	Stopped listening on port 49239
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScrip1673949349398	Marionette	INFO	Marionette enabled
+1673949349406	Marionette	INFO	Listening on port 49574
+Read port: 49574
+WebDriver BiDi listening on ws://127.0.0.1:49560
+1673949349778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile9aZTNM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49560/devtools/browser/48b78cf0-a092-4ae0-af67-644a8b9b747f
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 6907 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1150 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1673949361177	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.488udfjidfdfs.top/1/, line 24: ReferenceError: qs is not defined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1673949401481	Marionette	INFO	Stopped listening on port 49574
+[Parent 24808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 24808, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673949419756	geckodriver	INFO	Listening on 127.0.0.1:49807
+1673949422808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49808" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileU6I9UF"
+1673949423619	Marionette	INFO	Marionette enabled
+1673949423628	Marionette	INFO	Listening on port 49819
+Read port: 49819
+WebDriver BiDi listening on ws://127.0.0.1:49808
+1673949423953	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileU6I9UF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49808/devtools/browser/ce9c3232-be9b-45b0-93e2-9508d508437b
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.117.js, line 2: TypeError: right-hand side of 'in' should be an object, got undefined
+1673949432574	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1673949433013	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967355/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 422"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:422:5
+form@resource://devtools/server/actors/source.js:206:1
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2051:24
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 422, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 376))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 376: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967360/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 422"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:422:5
+form@resource://devtools/server/actors/source.js:206:1
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2051:24
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 422, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 376))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 376: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967367/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Error while destroying front:" "inspector" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967367/inspectorActor4, type getWalker failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\n_getWalker@resource://devtools/client/fronts/inspector.js:91:30\ninitialize@resource://devtools/client/fronts/inspector.js:80:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 422"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:422:5
+form@resource://devtools/server/actors/source.js:206:1
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2051:24
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 422, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 376))
+console.error: "Error while calling actor 'inspector's method 'getWalker'" "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"
+console.error: ({})
+console.error: "Error while calling actor 'inspector's method 'getPageStyle'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 376))
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 376: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 376: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+console.error: "Error when attaching target:" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967372/thread1, type isAttached failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nattachThread@resource://devtools/client/fronts/targets/target-mixin.js:566:49\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: watch :: line 1664"  data: no]
+Stack: watch@resource://devtools/server/actors/targets/window-global.js:1664:28
+_watchDocshells@resource://devtools/server/actors/targets/window-global.js:779:28
+initialize/<@resource://devtools/server/actors/targets/window-global.js:348:42
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1664, column: 0
+console.error: ({})
+Handler function threw an exception: [Exception... "Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/server/actors/targets/window-global.js :: get window :: line 422"  data: no]
+Stack: get window@resource://devtools/server/actors/targets/window-global.js:422:5
+form@resource://devtools/server/actors/source.js:206:1
+onNewSourceEvent/<@resource://devtools/server/actors/thread.js:2051:24
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 422, column: 0
+console.error: ({})
+console.error: "Error while calling actor 'thread's method 'isAttached'" "JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment"
+console.error: (new InvalidStateError("JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment", (void 0), 376))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 1712: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 560: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/actors/targets/window-global.js, line 422: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIDocShell.domWindow]
+JavaScript error: resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.sys.mjs, line 376: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1673949568435	Marionette	INFO	Stopped listening on port 49819
+1673949707800	geckodriver	INFO	Listening on 127.0.0.1:50193
+1673949710848	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50194" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileydvTA6"
+*** You are running in headless mode.
+1673949711610	Marionette	INFO	Marionette enabled
+1673949711618	Marionette	INFO	Listening on port 50206
+Read port: 50206
+WebDriver BiDi listening on ws://127.0.0.1:50194
+1673949711809	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileydvTA6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50194/devtools/browser/6e606f87-feb0-4a5f-a36a-e5fb4ad380c8
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673949725050	geckodriver	INFO	Listening on 127.0.0.1:50277
+1673949728096	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "50278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile96C6HM"
+*** You are running in headless mode.
+1673949728861	Marionette	INFO	Marionette enabled
+1673949728869	Marionette	INFO	Listening on port 50292
+Read port: 50292
+WebDriver BiDi listening on ws://127.0.0.1:50278
+1673949729069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile96C6HM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50278/devtools/browser/50037ea7-7660-4c0d-a726-dfdc601c58b6
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 3432 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673949739040	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 4256 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1673950657242	geckodriver	INFO	Listening on 127.0.0.1:54918
+1673950660294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\tmprzqywfrc" "--remote-debugging-port" "54919" "--remote-allow-hosts" "localhost" "-no-remote"
+1673950661679	Marionette	INFO	Marionette enabled
+1673950661688	Marionette	INFO	Listening on port 54931
+Read port: 54931
+WebDriver BiDi listening on ws://127.0.0.1:54919
+1673950661994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\tmprzqywfrc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54919/devtools/browser/61087806-1b14-4c45-b808-605475d2f10e
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 6928 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1673950672717	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.488udfjidfdfs.top/1/, line 24: ReferenceError: qs is not defined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1673950677217	Marionette	INFO	Stopped listening on port 54931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673950962132	geckodriver	INFO	Listening on 127.0.0.1:55354
+1673950965203	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilevHtv0C"
+*** You are running in headless mode.
+1673950966113	Marionette	INFO	Marionette enabled
+1673950966122	Marionette	INFO	Listening on port 55368
+Read port: 55368
+WebDriver BiDi listening on ws://127.0.0.1:55355
+1673950966282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilevHtv0C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55355/devtools/browser/5baced04-3cb4-4f13-ba89-32ca1712b89b
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+1673950973413	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673951115305	geckodriver	INFO	Listening on 127.0.0.1:55595
+1673951118362	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "55596" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileYyhK6e"
+*** You are running in headless mode.
+1673951119160	Marionette	INFO	Marionette enabled
+1673951119172	Marionette	INFO	Listening on port 55608
+Read port: 55608
+WebDriver BiDi listening on ws://127.0.0.1:55596
+1673951119326	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileYyhK6e\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55596/devtools/browser/0c50a877-9dbd-4f78-8e73-a37c87980e8a
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 1833 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 6029 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 157 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1673951128189	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.488udfjidfdfs.top/1/, line 24: ReferenceError: qs is not defined
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+1673952589476	geckodriver	INFO	Listening on 127.0.0.1:57114
+1673952592539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--remote-debugging-port" "57115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileFaMEbJ"
+*** You are running in headless mode.
+1673952593352	Marionette	INFO	Marionette enabled
+1673952593362	Marionette	INFO	Listening on port 57128
+Read port: 57128
+WebDriver BiDi listening on ws://127.0.0.1:57115
+1673952593524	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileFaMEbJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57115/devtools/browser/0790d379-287a-442c-9ecd-57bdf96b661e
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.117.js, line 2: TypeError: right-hand side of 'in' should be an object, got undefined
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1673952601279	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673952615044	geckodriver	INFO	Listening on 127.0.0.1:57288
+1673952618105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57289" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilehcCvVz"
+1673952618797	Marionette	INFO	Marionette enabled
+1673952618805	Marionette	INFO	Listening on port 57300
+Read port: 57300
+WebDriver BiDi listening on ws://127.0.0.1:57289
+1673952619163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilehcCvVz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57289/devtools/browser/652d5b56-fc33-4783-9ed1-4ca8f3f8ef76
+JavaScript warning: https://modsbase.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://fraserafecit.com/1clkn/17527, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://static.criteo.net/js/ld/publishertag.prebid.117.js, line 2: TypeError: right-hand side of 'in' should be an object, got undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 80 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/KJeI0sMyo1Q6mjhDM9mKcjS2IqRt95c1wIDqLysfd0M.js line 2 > eval line 6401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://modsbase.com."
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1673952628525	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1673952672556	Marionette	INFO	Stopped listening on port 57300
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+sendPing@resource://gre/modules/EventPing.jsm:51:30
+_submitPing@resource://gre/modules/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1673952706553	geckodriver	INFO	Listening on 127.0.0.1:57525
+1674030754745	geckodriver	INFO	Listening on 127.0.0.1:57771
+1674030757815	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57772" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile5duH2T"
+1674030758818	Marionette	INFO	Marionette enabled
+1674030758829	Marionette	INFO	Listening on port 57797
+Read port: 57797
+WebDriver BiDi listening on ws://127.0.0.1:57772
+1674030759299	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1674030772743	geckodriver	INFO	Listening on 127.0.0.1:57814
+1674030775804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57815" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqLYgwp"
+1674030776618	Marionette	INFO	Marionette enabled
+1674030776627	Marionette	INFO	Listening on port 57827
+Read port: 57827
+WebDriver BiDi listening on ws://127.0.0.1:57815
+1674030776976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqLYgwp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57815/devtools/browser/6ac90a33-055e-41e5-a5be-f6d62014ffbe
+1674032633084	geckodriver	INFO	Listening on 127.0.0.1:59387
+1674032636138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqsdEZw"
+1674032636865	Marionette	INFO	Marionette enabled
+1674032636874	Marionette	INFO	Listening on port 59398
+Read port: 59398
+WebDriver BiDi listening on ws://127.0.0.1:59388
+1674032637368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileqsdEZw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59388/devtools/browser/73638c5f-07a7-48d1-b533-d2e729cb28bd
+1674032644579	geckodriver	INFO	Listening on 127.0.0.1:59455
+1674032647620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59456" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofiler3dLjr"
+1674032648445	Marionette	INFO	Marionette enabled
+1674032648455	Marionette	INFO	Listening on port 59468
+Read port: 59468
+WebDriver BiDi listening on ws://127.0.0.1:59456
+1674032648771	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofiler3dLjr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59456/devtools/browser/f3e194e3-b60c-484a-a6ab-8b267c10e3e7
+1674032656514	geckodriver	INFO	Listening on 127.0.0.1:59528
+1674032659561	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile8NH0Ce"
+1674032659997	Marionette	INFO	Marionette enabled
+1674032660003	Marionette	INFO	Listening on port 59540
+Read port: 59540
+WebDriver BiDi listening on ws://127.0.0.1:59529
+1674032660208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile8NH0Ce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59529/devtools/browser/9ab4af88-f389-44cf-8086-314fb443c5ca
+1674032665921	geckodriver	INFO	Listening on 127.0.0.1:59584
+1674032668966	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59585" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilefBeQfT"
+1674032669744	Marionette	INFO	Marionette enabled
+1674032669753	Marionette	INFO	Listening on port 59602
+Read port: 59602
+WebDriver BiDi listening on ws://127.0.0.1:59585
+1674032670115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofilefBeQfT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59585/devtools/browser/61adf148-9147-4a57-a4ab-3bc169ba573f
+1674032696734	Marionette	INFO	Stopped listening on port 59602
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:1674032697261	Marionette	INFO	Marionette enabled
+1674032697280	Marionette	INFO	Listening on port 59740
+Read port: 59740
+WebDriver BiDi listening on ws://127.0.0.1:59715
+les/EventPing.jsm:229:12
+shutdown@resource://gre/modules/EventPing.jsm:112:10
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:940:31
+shutdown/<@resource://gre/modules/TelemetryControllerParent.jsm:1010:24
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:982:34
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  Waiting for ping task
+          Phase: TelemetryController: Waiting for pending ping activity
+          State: (none)
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:103:5
+promiseArchivePing@resource://gre/modules/TelemetryArchive.jsm:63:33
+_submitPingLogic@resource://gre/modules/TelemetryControllerParent.jsm:540:48
+send@resource://gre/modules/TelemetryControllerParent.jsm:628:24
+submitExternalPing@resource://gre/modules/TelemetryControllerParent.jsm:182:17
+saveShutdownPings@resource://gre/modules/TelemetrySession.jsm:1014:36
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1232:20
+cleanup@resource://gre/modules/TelemetrySession.jsm:1239:9
+shutdownChromeProcess@resource://gre/modules/TelemetrySession.jsm:1256:14
+shutdown@resource://gre/modules/TelemetrySession.jsm:247:17
+_cleanupOnShutdown@resource://gre/modules/TelemetryControllerParent.jsm:959:35
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: A blocker encountered an error while we were waiting.
+          Blocker:  TelemetryController: shutting down
+          Phase: profile-before-change-telemetry
+          State: Error getting state: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange" at addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:1687:7
+getShutdownState@resource://gre/modules/TelemetrySend.jsm:369:30
+_getState@resource://gre/modules/TelemetryControllerParent.jsm:1058:38
+setupTelemetry/<@resource://gre/modules/TelemetryControllerParent.jsm:917:18
+safeGetState@resource://gre/modules/AsyncShutdown.jsm:242:17
+Barrier/addBlocker/promise<@resource://gre/modules/AsyncShutdown.jsm:751:20
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+WARNING: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+WARNING: addBlocker@resource://gre/modules/AsyncShutdown.jsm:703:15
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:511:26
+addBlocker@resource://gre/modules/AsyncShutdown.jsm:450:15
+setupShutdown@resource://gre/modules/osfile/osfile_async_front.jsm:1563:28
+@resource://gre/modules/osfile/osfile_async_front.jsm:1583:16
+@resource://gre/modules/osfile.jsm:12:30
+@resource://gre/modules/TelemetryStorage.jsm:19:28
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:721:5
+removeAbortedSessionPing@resource://gre/modules/TelemetryControllerParent.jsm:249:17
+shutdownChromeProcess/cleanup/<@resource://gre/modules/TelemetrySession.jsm:1235:42
+observe@resource://gre/modules/AsyncShutdown.jsm:560:16
+
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+eBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 703: Error: Phase "profile-before-change" is finished, it is too late to register completion condition "OS.File: flush I/O queued before profileBeforeChange"
+1674033173655	geckodriver	INFO	Listening on 127.0.0.1:60094
+1674033176703	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60095" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofiled9RkZq"
+1674033177456	Marionette	INFO	Marionette enabled
+1674033177465	Marionette	INFO	Listening on port 60106
+Read port: 60106
+WebDriver BiDi listening on ws://127.0.0.1:60095
+1674033177780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofiled9RkZq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60095/devtools/browser/107f8ff8-ad15-4f2e-83db-8451ab144c2c
+1674033385836	geckodriver	INFO	Listening on 127.0.0.1:60335
+1674033388895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60336" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileE2UMOV"
+1674033389644	Marionette	INFO	Marionette enabled
+1674033389655	Marionette	INFO	Listening on port 60347
+Read port: 60347
+WebDriver BiDi listening on ws://127.0.0.1:60336
+1674033389977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileE2UMOV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60336/devtools/browser/867bf29c-50c6-47ff-944b-8818614976ff
+1674033511535	geckodriver	INFO	Listening on 127.0.0.1:60495
+1674033514582	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60496" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileadvyrC"
+1674033515406	Marionette	INFO	Marionette enabled
+1674033515415	Marionette	INFO	Listening on port 60508
+Read port: 60508
+WebDriver BiDi listening on ws://127.0.0.1:60496
+1674033515748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofileadvyrC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60496/devtools/browser/fc96e101-3ea4-4d43-a9cf-3acc962b175f
+1674033569050	geckodriver	INFO	Listening on 127.0.0.1:60609
+1674033572108	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60610" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile58pRVw"
+1674033572847	Marionette	INFO	Marionette enabled
+1674033572856	Marionette	INFO	Listening on port 60621
+Read port: 60621
+WebDriver BiDi listening on ws://127.0.0.1:60610
+1674033573267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\kicha\\AppData\\Local\\Temp\\rust_mozprofile58pRVw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60610/devtools/browser/7464227d-cedc-4d3d-a70d-fea84a5904c5
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
