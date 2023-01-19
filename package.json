@@ -1,5 +1,5 @@
 {
-  "name": "cs-mod-loader",
+  "name": "cs-mod-downloader",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
